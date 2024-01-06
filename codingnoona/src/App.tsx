@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import './App.css';
 import Store from './Store';
-import { Address, Restaurant } from './model/Restaurant';import BestMenu from './BestMenu';
+import { Address, Restaurant } from './model/Restaurant';
+import BestMenu from './BestMenu';
 
 const data:Restaurant = {
   name: "NAKZO",
